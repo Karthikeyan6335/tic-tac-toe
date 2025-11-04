@@ -1,16 +1,30 @@
-# flutter_xogame
+# Tic Tac Toe (Flutter)
 
-A new Flutter project.
+## Overview
+The Tic Tac Toe app is a cross-platform game developed using Flutter.  
+It provides a simple and interactive interface for two players to play the classic Tic Tac Toe game.  
+The app is built with a focus on UI responsiveness, efficient state management, and smooth gameplay.
 
-## Getting Started
+Live Demo: [https://tic-tac-toe-karthi.web.app](https://tic-tac-toe-karthi.web.app)
 
-This project is a starting point for a Flutter application.
+## Objective
+To design and develop an interactive two-player Tic Tac Toe game using Flutter, demonstrating knowledge of UI design, logic implementation, and web deployment.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Two-player local gameplay.  
+- Highlights winning combinations.  
+- Displays match results (Win, Lose, or Draw).  
+- Clean, responsive, and modern Flutter UI.  
+- Works seamlessly on both mobile and web platforms.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **State Management:** setState / Provider (depending on version)  
+- **Hosting:** Firebase Web Hosting  
+- **Tools:** Android Studio, Visual Studio Code  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Karthikeyan6335/Tic-Tac-Toe.git
